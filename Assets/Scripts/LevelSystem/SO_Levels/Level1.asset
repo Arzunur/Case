@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb7dffb4de8b5a746b575d9aa5e842a4, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  obstaclePrefabs:
+  - {fileID: 5370559392053774801, guid: f1a3414dd2dcfed46afb990d19406034, type: 3}
+  obstacleCount: 80
+  levelSize: {x: 10, y: 50}
+  obstacleRadius: 1
